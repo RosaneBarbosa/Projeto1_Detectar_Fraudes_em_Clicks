@@ -8,6 +8,6 @@ anúncios podem aumentar os custos simplesmente quando pessoas ou bots
 clicam nos anúncios em grande escala, o que na prática não gera o resultado 
 esperado. 
 
-Em resumo, neste projeto, o objetivo é construir um modelo de aprendizado de máquina
+Em resumo, neste projeto em linguagem R, o objetivo é construir um modelo de aprendizado de máquina
 para determinar se um clique é fraudulento ou não. Prever se um usuário fará o download
 de um aplicativo depois de clicar em um anúncio de aplicativo para dispositivos móveis.
